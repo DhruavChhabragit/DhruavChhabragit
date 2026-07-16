@@ -30,6 +30,8 @@ I'm currently a **Sr. IT Analyst Intern at Projxon**, where I build internal ana
   RFM segmentation and CLV modeling on 5+ years of transaction data; ANOVA testing shows purchase frequency drives far more customer value than recency, informing where retention budget should go.
 - **[Superstore Sales & Profit Dashboard](https://github.com/DhruavChhabragit/sales-dashboard-superstore)**
   Furniture loses money in every region while Technology drives all profit
+- **[SQL Analytics — Transactions & Multi-Level Reporting](https://github.com/DhruavChhabragit/sql-analytics-transactions-reporting)
+  It covers CTEs, window functions, ROLLUP, and transaction safety on a 5,000-order MySQL database.
 
 ## 🎓 Background
 
