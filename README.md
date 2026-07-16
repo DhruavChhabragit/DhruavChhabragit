@@ -31,7 +31,7 @@ I'm currently a **Sr. IT Analyst Intern at Projxon**, where I build internal ana
 - **[Superstore Sales & Profit Dashboard](https://github.com/DhruavChhabragit/sales-dashboard-superstore)**
   Furniture loses money in every region while Technology drives all profit
 - **[SQL Analytics — Transactions & Multi-Level Reporting](https://github.com/DhruavChhabragit/sql-analytics-transactions-reporting)**
-  MySQL project covering CTEs, window functions (LAG/LEAD), ROLLUP subtotals, and transaction safety (commit/rollback) on a 5,000-order   sales database.
+  ** ([live demo](https://dhruavchhabragit.github.io/sales-dashboard-superstore/dashboard.html)) MySQL project covering CTEs, window      functions (LAG/LEAD), ROLLUP subtotals, and transaction safety (commit/rollback) on a 5,000-order   sales database.
 - **[Voice-Activated Virtual Assistant](https://github.com/DhruavChhabragit/voice-activated-assistant)**
   Modular AI voice assistant with GPT-3.5-turbo, speech recognition, and text-to-speech; routes queries across news, web search, and      conversation with full offline test coverage.
 
