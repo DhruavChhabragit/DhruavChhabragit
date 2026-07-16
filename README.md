@@ -28,6 +28,8 @@ I'm currently a **Sr. IT Analyst Intern at Projxon**, where I build internal ana
 
 - **[Customer Segmentation & CLV Analysis](https://github.com/DhruavChhabragit/customer-segmentation-rfm)**
   RFM segmentation and CLV modeling on 5+ years of transaction data; ANOVA testing shows purchase frequency drives far more customer value than recency, informing where retention budget should go.
+- **[Superstore Sales & Profit Dashboard](https://github.com/DhruavChhabragit/sales-dashboard-superstore)**
+  Furniture loses money in every region while Technology drives all profit
 
 ## 🎓 Background
 
