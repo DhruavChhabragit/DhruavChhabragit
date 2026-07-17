@@ -17,11 +17,6 @@ I'm currently a **Sr. IT Analyst Intern at Projxon**, where I build internal ana
 
 **Techniques:** RFM segmentation · CLV modeling · CHAID · predictive/classification modeling · experiment design
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=DhruavChhabragit&show_icons=true&theme=default&hide_border=true" align="left" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruavChhabragit&layout=compact&hide_border=true" height="165" alt="Top languages" />
-
 <br clear="both">
 
 ## 📌 Featured Projects
